@@ -4,4 +4,4 @@ A Function Declaration é a mais comum de declarar uma função, ela se inicia c
 ## Function Expression:
 Essa função é armazenada dentro de uma variável, ela pode ser tanto nomeada para fazer recursão, como também pode ser anônima sendo mais comum. Essa em questão não possui hoisting, ou seja, ela precisa ser declarada antes de ser usada.
 ## Function Arrow:
-É a função mais moderna entre as três, ela procura deixar o código mais limpo e fácil de entender. A sua sintaxe é bem simples, declara uma variável em seguida o nome da função, os seus parâmetros, o sinal "=>" para iniciar o arrow e dentro das chaves o conteúdo da sua função. Existe variação de sintaxe nessa função.
+É a função mais moderna entre as três, ela procura deixar o código mais limpo e fácil de entender. A sua sintaxe é bem simples, declara uma variável em seguida o nome da função, os seus parâmetros, o sinal "=>" para iniciar o arrow e dentro das chaves o conteúdo da sua função. Existe variação de sintaxe nessa função, ela pode ser criada com retorno explícito ou implícito (com ou sem chaves), também pode ser criada com ou sem parâmetros.
